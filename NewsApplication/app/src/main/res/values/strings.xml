@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NewsApplication</string>
+    <string name="nodate">No Such Datee</string>
+    <string name="no_data_available">No nows available</string>
+    <string name="device_not_connected">Please Check your internet Connection</string>
+    <string name="refresh">Refresh</string>
+</resources>
+
+
+
+
